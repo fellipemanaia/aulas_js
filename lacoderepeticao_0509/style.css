@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to bottom right, rgb(155, 7, 7), rgb(255, 255, 255));
+}
+.forms{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 2rem;
+}
+.inserir{
+    font-size: 2rem;
+    background-color: rgb(136, 131, 124);
+}
+.botao{
+    width: 22rem;
+    font-size: 2rem;
+}
