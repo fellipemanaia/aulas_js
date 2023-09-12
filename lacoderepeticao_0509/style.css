@@ -1,5 +1,9 @@
 body{
-    background: linear-gradient(to bottom right, rgb(155, 7, 7), rgb(255, 255, 255));
+    background: linear-gradient(
+    90deg,
+    rgb(255, 0, 0) 0%,
+    rgb(192, 192, 185) 100%
+    );
 }
 .forms{
     text-align: center;
