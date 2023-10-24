@@ -17,4 +17,4 @@ http://fellipemanaia.github.io/aulas_js/exercicio1_2908/index.html
 http://fellipemanaia.github.io/aulas_js/lacoderepeticao_0509/index.html
 
 ## Programação Orientada a Objetos
-http://fellipemanaia.github.io/aulas_js/p-o-o/index.html
+http://fellipemanaia.github.io/aulas_js/p_oo/index.html
