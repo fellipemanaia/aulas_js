@@ -18,3 +18,6 @@ http://fellipemanaia.github.io/aulas_js/lacoderepeticao_0509/index.html
 
 ## Programação Orientada a Objetos
 http://fellipemanaia.github.io/aulas_js/p_oo/index.html
+
+## Programação Orientada a Objetos Versão 2
+http://fellipemanaia.github.io/aulas_js/p_oov2/index.html
