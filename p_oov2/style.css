@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+.a{
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background-color: brown;
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    gap: 2rem;
+}
+
+.conteudo{
+    padding: 0 15%;
+}
+
+
+
+.inicio-text h5{
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.inicio-text h1{
+    font-size: 50px;
+    line-height: 1;
+    color: white;
+    margin: 0 0 45px;
+}
+
+.inicio-text p{
+    color: white;
+    font-size: 14px;
+
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 41, 41, 0.658);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 100px;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+#personForm {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="text"] {
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px;
+    background-color: #8f1515;
+    color: white;
+    border: none;
+    cursor: pointer;
+   
+}
+
+button:hover {
+    background-color: #5f1d1d;
+}
+
+
+.display-details {
+    margin-top: 20px;
+}
