@@ -21,3 +21,6 @@ http://fellipemanaia.github.io/aulas_js/p_oo/index.html
 
 ## Programação Orientada a Objetos Versão 2
 http://fellipemanaia.github.io/aulas_js/p_oov2/index.html
+
+## Troca de imgs com JS
+http://fellipemanaia.github.io/aulas_js/trocadeimgs/index.html
